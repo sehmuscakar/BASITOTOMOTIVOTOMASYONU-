@@ -1,0 +1,22 @@
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\bin\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\bin\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.exe
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\bin\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.pdb
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.FRMGRAFİKLER.resources
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\otomotiv otomasyonu.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\otomotiv otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.exe
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.pdb
+C:\Users\scaka\OneDrive\Masaüstü\c# from projeleri\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\otomotiv otomasyonu.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\bin\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\bin\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.exe
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\bin\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.pdb
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\otomotiv otomasyonu.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.Form1.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.FRMGRAFİKLER.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\otomotiv otomasyonu.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\otomotiv otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.exe
+C:\Users\scaka\OneDrive\Masaüstü\C# otomasyon projeleri\Otomotiv-Otomasyonu-main\OTOMOTİV OTOMASYONU\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK\obj\Debug\VERİTABANLI_PARTİ_SECİM_GRAFİK_İSTATİSTİK.pdb
